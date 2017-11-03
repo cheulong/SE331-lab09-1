@@ -10,7 +10,7 @@ export class CourseListComponent implements OnInit{
   constructor(){
 
   }
-  // @Input() count:number;
+   @Input() count:number;
   // @Input('enrolledCourse') courses:Course;
   ngOnInit(){
 
